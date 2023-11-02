@@ -13,12 +13,12 @@ ambele thread-uri modifica simultan variabila 'a'
 ### 2.
 ./testCorrectnessIntensive.sh ./raceCondition-seq ./raceCondition 1 50
 The result of your parallel program is
-======================================
+
 4 answer should be 4
-======================================
+
 Running intensive correctness test with threads
 Test 1/50
-----------
+
 Test 46/50
 Test 47/50
 Test 48/50
